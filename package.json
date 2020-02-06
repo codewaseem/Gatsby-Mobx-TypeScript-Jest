@@ -14,31 +14,32 @@
     "test": "jest"
   },
   "dependencies": {
-    "@babel/core": "^7.8.4",
-    "@babel/plugin-proposal-class-properties": "^7.8.3",
-    "@babel/plugin-proposal-decorators": "^7.8.3",
-    "babel-preset-gatsby": "^0.2.28",
     "gatsby": "^2.19.12",
-    "gatsby-plugin-typescript": "^2.1.27",
     "mobx": "^5.15.4",
     "mobx-react": "^6.1.4",
     "react": "^16.12.0",
     "react-dom": "^16.12.00"
   },
   "devDependencies": {
-    "mobx-react-devtools": "^6.1.1",
+    "@babel/core": "^7.8.4",
+    "@babel/plugin-proposal-class-properties": "^7.8.3",
+    "@babel/plugin-proposal-decorators": "^7.8.3",
     "@types/jest": "^25.1.1",
     "@types/react-test-renderer": "^16.9.2",
-    "identity-obj-proxy": "^3.0.0",
-    "prettier": "1.19.1",
-    "react-test-renderer": "^16.12.0",
-    "ts-jest": "^25.2.0",
     "@typescript-eslint/eslint-plugin": "^2.19.0",
     "@typescript-eslint/parser": "^2.19.0",
+    "babel-preset-gatsby": "^0.2.28",
     "eslint": "6.8.0",
     "eslint-config-prettier": "^6.10.0",
     "eslint-plugin-prettier": "^3.1.2",
+    "eslint-plugin-react": "^7.18.3",
+    "gatsby-plugin-typescript": "^2.1.27",
+    "identity-obj-proxy": "^3.0.0",
     "jest": "^25.1.0",
+    "mobx-react-devtools": "^6.1.1",
+    "prettier": "1.19.1",
+    "react-test-renderer": "^16.12.0",
+    "ts-jest": "^25.2.0",
     "typescript": "^3.7.5"
   }
 }
